@@ -21,8 +21,9 @@ This is a recoding of the printf function, made as an assignment at [1337][1]. I
 
 int main()
 {
-	ft
-	ft_printf("hello");
+	char *string = "I love you";
+	int number = 3000;
+	ft_printf("%s %d", string, number);
 	return 0;
 }
 
