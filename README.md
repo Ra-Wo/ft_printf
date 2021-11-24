@@ -40,4 +40,4 @@ gcc main.c libftprintf.a
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-[1]: (https://1337.ma)
+[1]: https://1337.ma
