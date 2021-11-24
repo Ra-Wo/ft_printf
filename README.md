@@ -2,7 +2,7 @@
 
 This is a recoding of the printf function, made as an assignment at [1337][1]. It works with the c, s, p, d, i, u, x, X, %.
 
-# How to run it
+### How to run it
 
 ```bash
 #clone the project and compile it
