@@ -29,7 +29,8 @@ int				ft_s(va_list ptr, int fd);
 int				ft_p(va_list ptr, int fd);
 int				ft_di(va_list ptr, int fd);
 int				ft_u(va_list ptr, int fd);
-int				ft_x(va_list ptr, int fd);
+int				ft_x_lower(va_list ptr, int fd);
 int				ft_x_upper(va_list ptr, int fd);
+char			*convert_base(unsigned int num, char *base);
 
 #endif

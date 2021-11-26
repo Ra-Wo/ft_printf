@@ -23,7 +23,7 @@ int	check_type(const char *s, int index, int fd, va_list ptr)
 	print_arg[3] = ft_di;
 	print_arg[4] = ft_di;
 	print_arg[5] = ft_u;
-	print_arg[6] = ft_x;
+	print_arg[6] = ft_x_lower;
 	print_arg[7] = ft_x_upper;
 	index++;
 	x = 0;
