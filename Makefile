@@ -15,6 +15,9 @@ all: $(NAME)
 $(NAME) : $(OBJS)
 	ar rc $@ $^
 
+%.o: %.c ft_printf.h
+	$(CC) ${CFLAGS} -c $< -o $@
+
 clean: 
 	rm -f $(OBJS)
 
